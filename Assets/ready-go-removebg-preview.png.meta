@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: d7eed6aa558f8844aafe8c6d6cd36e32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6634814189959300111
+    second: ready-go-removebg-preview_0
+  - first:
+      213: 7608584104178044326
+    second: ready-go-removebg-preview_1
+  - first:
+      213: 7158602990047310116
+    second: ready-go-removebg-preview_2
+  - first:
+      213: 8360357999447104994
+    second: ready-go-removebg-preview_3
+  - first:
+      213: 3386865674362348630
+    second: ready-go-removebg-preview_4
+  - first:
+      213: -4099445282377898921
+    second: ready-go-removebg-preview_5
+  - first:
+      213: 4177685315797762520
+    second: ready-go-removebg-preview_6
+  - first:
+      213: -6582967533051096225
+    second: ready-go-removebg-preview_7
+  - first:
+      213: 6945365514939947099
+    second: ready-go-removebg-preview_8
+  - first:
+      213: 1062221952522151992
+    second: ready-go-removebg-preview_9
+  - first:
+      213: 3789853079425360486
+    second: ready-go-removebg-preview_10
+  - first:
+      213: 5300338812016775518
+    second: ready-go-removebg-preview_11
+  - first:
+      213: -2635208642437942872
+    second: ready-go-removebg-preview_12
+  - first:
+      213: -201547498077215562
+    second: ready-go-removebg-preview_13
+  - first:
+      213: 289647721486835493
+    second: ready-go-removebg-preview_14
+  - first:
+      213: 6405832533575960730
+    second: ready-go-removebg-preview_15
+  - first:
+      213: -5038889772474418170
+    second: ready-go-removebg-preview_16
+  - first:
+      213: -7344304731574017109
+    second: ready-go-removebg-preview_17
+  - first:
+      213: -3767015209347101003
+    second: ready-go-removebg-preview_18
+  - first:
+      213: -5968030493093163983
+    second: ready-go-removebg-preview_19
+  - first:
+      213: 8680485282591675148
+    second: ready-go-removebg-preview_20
+  - first:
+      213: 5953325237428442528
+    second: ready-go-removebg-preview_21
+  - first:
+      213: -7658306543572708696
+    second: ready-go-removebg-preview_22
+  - first:
+      213: -1564424609831368183
+    second: ready-go-removebg-preview_23
+  - first:
+      213: 1056924279386907619
+    second: ready-go-removebg-preview_24
+  - first:
+      213: 6026522946871177762
+    second: ready-go-removebg-preview_25
+  - first:
+      213: 6937782112447053193
+    second: ready-go-removebg-preview_26
+  - first:
+      213: 3263056897625912697
+    second: ready-go-removebg-preview_27
+  - first:
+      213: -7718244963074896459
+    second: ready-go-removebg-preview_28
+  - first:
+      213: -6703709314027698376
+    second: ready-go-removebg-preview_29
+  - first:
+      213: 1211691250070111720
+    second: ready-go-removebg-preview_30
+  - first:
+      213: -8517474982747581668
+    second: ready-go-removebg-preview_31
+  - first:
+      213: -6210349726179051703
+    second: ready-go-removebg-preview_32
+  - first:
+      213: 2867705230763660974
+    second: ready-go-removebg-preview_33
+  - first:
+      213: -4469442893954940312
+    second: ready-go-removebg-preview_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ready-go-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 361
+        width: 361
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad47354eee179960800000000000000
+      internalID: 7608584104178044326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready-go-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 237
+        width: 433
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b1d5dd77785360800000000000000
+      internalID: 7158602990047310116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready-go-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 113
+        width: 177
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd3203e45f50470800000000000000
+      internalID: 8360357999447104994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready-go-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 122
+        width: 449
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9976b43a483f0254a8544bf3f60a340e
+      internalID: -6634814189959300111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c990570d716187c4999ca7dc9fd81d38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ready-go-removebg-preview_0: -6634814189959300111
+      ready-go-removebg-preview_1: 7608584104178044326
+      ready-go-removebg-preview_10: 3789853079425360486
+      ready-go-removebg-preview_11: 5300338812016775518
+      ready-go-removebg-preview_12: -2635208642437942872
+      ready-go-removebg-preview_13: -201547498077215562
+      ready-go-removebg-preview_14: 289647721486835493
+      ready-go-removebg-preview_15: 6405832533575960730
+      ready-go-removebg-preview_16: -5038889772474418170
+      ready-go-removebg-preview_17: -7344304731574017109
+      ready-go-removebg-preview_18: -3767015209347101003
+      ready-go-removebg-preview_19: -5968030493093163983
+      ready-go-removebg-preview_2: 7158602990047310116
+      ready-go-removebg-preview_20: 8680485282591675148
+      ready-go-removebg-preview_21: 5953325237428442528
+      ready-go-removebg-preview_22: -7658306543572708696
+      ready-go-removebg-preview_23: -1564424609831368183
+      ready-go-removebg-preview_24: 1056924279386907619
+      ready-go-removebg-preview_25: 6026522946871177762
+      ready-go-removebg-preview_26: 6937782112447053193
+      ready-go-removebg-preview_27: 3263056897625912697
+      ready-go-removebg-preview_28: -7718244963074896459
+      ready-go-removebg-preview_29: -6703709314027698376
+      ready-go-removebg-preview_3: 8360357999447104994
+      ready-go-removebg-preview_30: 1211691250070111720
+      ready-go-removebg-preview_31: -8517474982747581668
+      ready-go-removebg-preview_32: -6210349726179051703
+      ready-go-removebg-preview_33: 2867705230763660974
+      ready-go-removebg-preview_34: -4469442893954940312
+      ready-go-removebg-preview_4: 3386865674362348630
+      ready-go-removebg-preview_5: -4099445282377898921
+      ready-go-removebg-preview_6: 4177685315797762520
+      ready-go-removebg-preview_7: -6582967533051096225
+      ready-go-removebg-preview_8: 6945365514939947099
+      ready-go-removebg-preview_9: 1062221952522151992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

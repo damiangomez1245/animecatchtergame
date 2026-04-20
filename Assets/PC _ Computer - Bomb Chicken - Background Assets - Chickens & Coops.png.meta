@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 648c2c9dad212f74c8f1ad42a858dd5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4038874884290132875
+    second: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c3ad01b803f7c0800000000000000
+      internalID: -4038874884290132875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 282
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a81535dd735a84cb6ce6a0272651f3
+      internalID: 1448946806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 282
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92403ad556c3b468d7ea3a6ec6effe
+      internalID: -145874508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 282
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394439096c587c247a1c387ce6f1c48e
+      internalID: 227356924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 282
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead49ed2a81aff469fbd6e0346f93ad
+      internalID: 226774482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 282
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772b64371c162f42b367574be0eeceb
+      internalID: -1305332217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 282
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d631165a01414a973d7b7415f91b1
+      internalID: 216687513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 282
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64a108780450d4f933075318a27732
+      internalID: 2057073976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 282
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9939d546cdd4644a19d8603708cf0a
+      internalID: -1083110262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 282
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39344c056bb9bb94aa36a98123dd8947
+      internalID: 1766278281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad5c3623fcea548b735ddb2cb438bb
+      internalID: 2039419899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b2d1e0db144b41a00cfec76816d2c
+      internalID: 238937471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 256
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bbb5434dcd11e498b3136e774cc56c
+      internalID: 78734549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431ae23bfbf394469027d631b26772e
+      internalID: -1995565127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f67982078790384f9832a6f88f503ad
+      internalID: 668315028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 256
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef5f94dcdfbd8428a927d8d943e610
+      internalID: 2097013816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137eaf3d7e2a0f4b920b8c904ae2ae7
+      internalID: 1563286253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee4b71fc8ca8e4a916918a44e6f961
+      internalID: -1866892284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbdfab225eaa354981af3cff2b70d3c
+      internalID: 276408220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 256
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a05a446d5f0fa419f95ec642f6d018
+      internalID: 1016393970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 256
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db414722466451246b8cb50032053178
+      internalID: -310528000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19533e049e10049b30383b5a122f4a
+      internalID: 1447971547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e93f27055f9b644a280e8fb2cc379d
+      internalID: 816246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307201d6c9e9cb94aa8c298b1143f83f
+      internalID: -870973888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888f43f01ad31e4d9fc7905fdb54bf6
+      internalID: -658961046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 230
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0039cada69aafc4497b61924b96f05f
+      internalID: -1945935124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beafe89ff97f2c4d83f3720dc2b0aeb
+      internalID: 1210089345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 230
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba33a388fd05a0418cd92853bb2e904
+      internalID: -409318426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 230
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad070033b2130c46aa7c7a3ef86242b
+      internalID: 305692898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b41f1e0ce86eec479b5cae39fa34c38
+      internalID: 1716714438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1b11b44080e04dba06465bbd364b5
+      internalID: -844327404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f35f7f2cedf84e943118ab4bea41a
+      internalID: -799463706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 230
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d733be5eb97d54193da6fff270ce52
+      internalID: 1024283612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 230
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26b2a3ce75f084da6fcf699255a694
+      internalID: 1950756056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193371c199061f4c9581c1bba327484
+      internalID: 598086983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 230
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205ccf98e7f6eea40a941c7a0e64116c
+      internalID: -1093093180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 230
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430559e5959415041ba95db08d22749c
+      internalID: -1502748656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399611ac5920e2e45a9ad1395403f455
+      internalID: -1273658602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31d76f193fa0a4a47961888c4a50f5ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_0: -4038874884290132875
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_1: 1448946806
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_10: 2039419899
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_11: 238937471
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_12: 78734549
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_13: -1995565127
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_14: 668315028
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_15: 2097013816
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_16: 1563286253
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_17: -1866892284
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_18: 276408220
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_19: 1016393970
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_2: -145874508
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_20: -310528000
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_21: 1447971547
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_22: 816246
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_23: -870973888
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_24: -658961046
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_25: -1945935124
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_26: 1210089345
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_27: -409318426
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_28: 305692898
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_29: 1716714438
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_3: 227356924
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_30: -844327404
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_31: -799463706
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_32: 1024283612
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_33: 1950756056
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_34: 598086983
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_35: -1093093180
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_36: -1502748656
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_37: -1273658602
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_4: 226774482
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_5: -1305332217
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_6: 216687513
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_7: 2057073976
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_8: -1083110262
+      PC _ Computer - Bomb Chicken - Background Assets - Chickens & Coops_9: 1766278281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

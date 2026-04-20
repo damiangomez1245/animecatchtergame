@@ -1,0 +1,6578 @@
+fileFormatVersion: 2
+guid: c1e3d15933dcc3543a75a15ee1487bff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 76918119628678659
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_0
+  - first:
+      213: -7455652352834312597
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_1
+  - first:
+      213: 7187581609502066152
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_2
+  - first:
+      213: 5102543353743211395
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_3
+  - first:
+      213: -8105427967141809573
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_4
+  - first:
+      213: 8759394070720600052
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_5
+  - first:
+      213: 8171719034393621870
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_6
+  - first:
+      213: -9109603917988341685
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_7
+  - first:
+      213: -3902538445348856213
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_8
+  - first:
+      213: 3856806799108583157
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_9
+  - first:
+      213: -3793935614888491117
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_10
+  - first:
+      213: -6735281752380233368
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_11
+  - first:
+      213: 2935398735339377828
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_12
+  - first:
+      213: -4862920138165864428
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_13
+  - first:
+      213: -5617523655483914578
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_14
+  - first:
+      213: 132539399506160641
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_15
+  - first:
+      213: 2102719154135328223
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_16
+  - first:
+      213: -8399001576904653028
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_17
+  - first:
+      213: 2496232651872306148
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_18
+  - first:
+      213: -2619225047081383093
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_19
+  - first:
+      213: -3057715819341913606
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_20
+  - first:
+      213: 1838652424489109744
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_21
+  - first:
+      213: -6919969682868896751
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_22
+  - first:
+      213: -7870508733626828874
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_23
+  - first:
+      213: 8981882248444242755
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_24
+  - first:
+      213: 5383075958604680857
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_25
+  - first:
+      213: -5466200723693346882
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_26
+  - first:
+      213: 2315334431127624490
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_27
+  - first:
+      213: -8832212386889588460
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_28
+  - first:
+      213: 8300244213223962204
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_29
+  - first:
+      213: -2431109697889504391
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_30
+  - first:
+      213: 6132227890200674725
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_31
+  - first:
+      213: -853884493509884584
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_32
+  - first:
+      213: -719481518888463705
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_33
+  - first:
+      213: 2463260593469454555
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_34
+  - first:
+      213: 1740882543030776000
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_35
+  - first:
+      213: 7213275390255906180
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_36
+  - first:
+      213: 7069836473793375225
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_37
+  - first:
+      213: 2667933215201497094
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_38
+  - first:
+      213: 5741252730503061596
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_39
+  - first:
+      213: -275217049989083447
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_40
+  - first:
+      213: 7186275112008401011
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_41
+  - first:
+      213: 5982238766275414403
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_42
+  - first:
+      213: 3571240380203560588
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_43
+  - first:
+      213: 3484638350459044463
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_44
+  - first:
+      213: -1329277967262790471
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_45
+  - first:
+      213: 1960340457118393400
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_46
+  - first:
+      213: 5997603675280943621
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_47
+  - first:
+      213: 2418711994233244048
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_48
+  - first:
+      213: 7745458297188475998
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_49
+  - first:
+      213: -5099007106727249544
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_50
+  - first:
+      213: 4392214892491541935
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_51
+  - first:
+      213: -7931062168184669851
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_52
+  - first:
+      213: -6898548328177403083
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_53
+  - first:
+      213: -355036762595148500
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_54
+  - first:
+      213: -3280532765199812562
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_55
+  - first:
+      213: 5342501541279062807
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_56
+  - first:
+      213: -2226019577228656159
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_57
+  - first:
+      213: -1205252857367432842
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_58
+  - first:
+      213: 7750099948057263082
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_59
+  - first:
+      213: 7274767568164150057
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_60
+  - first:
+      213: 7448469815263682767
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_61
+  - first:
+      213: 971199448541656155
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_62
+  - first:
+      213: 5272127409955942421
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_63
+  - first:
+      213: 8109377656405922341
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_64
+  - first:
+      213: -7808906948030678511
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_65
+  - first:
+      213: -4804764303713131286
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_66
+  - first:
+      213: 4675924578517268176
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_67
+  - first:
+      213: 2500017755717794912
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_68
+  - first:
+      213: -308309925023147211
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_69
+  - first:
+      213: -4281684920163979502
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_70
+  - first:
+      213: 9183222634556313297
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_71
+  - first:
+      213: -1193858681547542189
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_72
+  - first:
+      213: -4719528156267175147
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_73
+  - first:
+      213: 183187639357180398
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_74
+  - first:
+      213: -8094255527834604010
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_75
+  - first:
+      213: 550352348282525840
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_76
+  - first:
+      213: 7923740201821443639
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_77
+  - first:
+      213: -588975628608206531
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_78
+  - first:
+      213: -1751839710264262273
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_79
+  - first:
+      213: 742954644112494568
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_80
+  - first:
+      213: 8187379629573218155
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_81
+  - first:
+      213: 4143653914141937714
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_82
+  - first:
+      213: 8352077447157386707
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_83
+  - first:
+      213: -344812299700989642
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_84
+  - first:
+      213: 8986342088961135541
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_85
+  - first:
+      213: 8986299394936103025
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_86
+  - first:
+      213: 2230675621816496348
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_87
+  - first:
+      213: 5886724703955044019
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_88
+  - first:
+      213: -643841022239607430
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_89
+  - first:
+      213: -8943208512369763165
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_90
+  - first:
+      213: 190499033804596713
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_91
+  - first:
+      213: -984530173376766286
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_92
+  - first:
+      213: 5681869179507116945
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_93
+  - first:
+      213: -4498636934635578998
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_94
+  - first:
+      213: -9216563600880995898
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_95
+  - first:
+      213: 571867124067547386
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_96
+  - first:
+      213: -911672214463293636
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_97
+  - first:
+      213: -6897469008090251507
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_98
+  - first:
+      213: -8589861540513233102
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_99
+  - first:
+      213: -5139503796640387102
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_100
+  - first:
+      213: 1996027696947515185
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_101
+  - first:
+      213: 5454857248239944388
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_102
+  - first:
+      213: 3869984928099460483
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_103
+  - first:
+      213: -6984289687709050973
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_104
+  - first:
+      213: -7711659944760482082
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_105
+  - first:
+      213: -1679634803234088424
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_106
+  - first:
+      213: -8765778390747362694
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_107
+  - first:
+      213: 736263222394940555
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_108
+  - first:
+      213: -6312749007506996286
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_109
+  - first:
+      213: -6157993306054774677
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_110
+  - first:
+      213: -758726306630876515
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_111
+  - first:
+      213: 9054341567279392736
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_112
+  - first:
+      213: 4497631003198023534
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_113
+  - first:
+      213: 1287407355127070199
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_114
+  - first:
+      213: -8334245407618646835
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_115
+  - first:
+      213: -3247996122458692083
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_116
+  - first:
+      213: -5202215762106777000
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_117
+  - first:
+      213: 590715333389580209
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_118
+  - first:
+      213: -5726128390770715380
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_119
+  - first:
+      213: 5287338371118291090
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_120
+  - first:
+      213: -4078984087385949646
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_121
+  - first:
+      213: 1372910470412727742
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_122
+  - first:
+      213: 6849310639797246616
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_123
+  - first:
+      213: -1926504663880987132
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_124
+  - first:
+      213: 7555537871233322879
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_125
+  - first:
+      213: -2622327534015653054
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_126
+  - first:
+      213: 8502992637395649090
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_127
+  - first:
+      213: 3286524212480444799
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_128
+  - first:
+      213: -6142244926662378403
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_129
+  - first:
+      213: -7830530864148110699
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_130
+  - first:
+      213: -4469432184425134962
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_131
+  - first:
+      213: -5293161996511774505
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_132
+  - first:
+      213: -7427574250337938490
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_133
+  - first:
+      213: 8792180959901076127
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_134
+  - first:
+      213: -384490017600090859
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_135
+  - first:
+      213: -7788429290451889204
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_136
+  - first:
+      213: -4257945698741858481
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_137
+  - first:
+      213: -7230584143371411682
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_138
+  - first:
+      213: -4577763517759688395
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_139
+  - first:
+      213: 2266899888685097201
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_140
+  - first:
+      213: -9194436823094627122
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_141
+  - first:
+      213: 3315632271282857124
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_142
+  - first:
+      213: 7020679326672480174
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_143
+  - first:
+      213: -5979949432054258168
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_144
+  - first:
+      213: -3747337824437712082
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_145
+  - first:
+      213: -4476214350691088097
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_146
+  - first:
+      213: -8488649908234196789
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_147
+  - first:
+      213: -6789402401005475474
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_148
+  - first:
+      213: -2809931906565334873
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_149
+  - first:
+      213: -5322669896964235891
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_150
+  - first:
+      213: -8297847156668350402
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_151
+  - first:
+      213: 6794912690699838311
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_152
+  - first:
+      213: 1160855613473978015
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_153
+  - first:
+      213: -5622976145446878556
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_154
+  - first:
+      213: 1037591569977555310
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_155
+  - first:
+      213: 5204012213230738013
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_156
+  - first:
+      213: 2267234281055716416
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_157
+  - first:
+      213: 8603879138015309131
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_158
+  - first:
+      213: 6287974623565694168
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_159
+  - first:
+      213: -6968787082565801810
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_160
+  - first:
+      213: -4939078331798706363
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_161
+  - first:
+      213: -4417346016843174173
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_162
+  - first:
+      213: 8103304368176901736
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_163
+  - first:
+      213: 4840381504653064362
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_164
+  - first:
+      213: 8805868186799147645
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_165
+  - first:
+      213: 4389058713385895804
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_166
+  - first:
+      213: -8354341240620435760
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_167
+  - first:
+      213: -5231052126091431807
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_168
+  - first:
+      213: -1563342311192348166
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_169
+  - first:
+      213: 6885683120812735264
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_170
+  - first:
+      213: 339866970721026656
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_171
+  - first:
+      213: 1353240591290917274
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_172
+  - first:
+      213: -3394417537889293935
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_173
+  - first:
+      213: 7366909976081212369
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_174
+  - first:
+      213: -2052711500424761507
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_175
+  - first:
+      213: 7690416266345082838
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_176
+  - first:
+      213: 3293449200005211331
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_177
+  - first:
+      213: -7354539082598732682
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_178
+  - first:
+      213: -3442501967434666789
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_179
+  - first:
+      213: 132789127040530658
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_180
+  - first:
+      213: -1050606805367692720
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_181
+  - first:
+      213: 5479596886349986291
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_182
+  - first:
+      213: -2410666295280797489
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_183
+  - first:
+      213: 7575961863263213896
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_184
+  - first:
+      213: 4609812285106061928
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_185
+  - first:
+      213: 1435237053873698538
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_186
+  - first:
+      213: -8750150481196384308
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_187
+  - first:
+      213: 7711000613463227448
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_188
+  - first:
+      213: 8422114031158515591
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_189
+  - first:
+      213: 1962477029817380033
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_190
+  - first:
+      213: 4048077567300828970
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_191
+  - first:
+      213: -376631511097461599
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_192
+  - first:
+      213: 3866078871514054307
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_193
+  - first:
+      213: 5921070379982524730
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_194
+  - first:
+      213: 5343018931977163356
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_195
+  - first:
+      213: 4480104326436887391
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_196
+  - first:
+      213: 6037890819095829825
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_197
+  - first:
+      213: 2549527943703151886
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_198
+  - first:
+      213: 4664600512827150359
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_199
+  - first:
+      213: -286792341116681714
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_200
+  - first:
+      213: -521962362741648154
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_201
+  - first:
+      213: -9084234012607977366
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_202
+  - first:
+      213: 4209231640177615790
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_203
+  - first:
+      213: 253183784328974236
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_204
+  - first:
+      213: -5870254590427573089
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_205
+  - first:
+      213: 7911748829079376688
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_206
+  - first:
+      213: -7693924355351327323
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_207
+  - first:
+      213: -8610726911041981600
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_208
+  - first:
+      213: 5554155245238708691
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_209
+  - first:
+      213: 1467933790448131465
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_210
+  - first:
+      213: -8544965071867315438
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_211
+  - first:
+      213: 6451007398784543030
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_212
+  - first:
+      213: 7581187309540882317
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_213
+  - first:
+      213: -3605994299446682256
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_214
+  - first:
+      213: -6574381133381780946
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_215
+  - first:
+      213: 5865026312762471125
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_216
+  - first:
+      213: 5891357749558721905
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_217
+  - first:
+      213: 5250703389908147009
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_218
+  - first:
+      213: -1672277730064434737
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_219
+  - first:
+      213: 7819148602803353873
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_220
+  - first:
+      213: -5348054183102147081
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_221
+  - first:
+      213: 5753349243876748250
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_222
+  - first:
+      213: -6985690655790591115
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_223
+  - first:
+      213: -3994970508569148624
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_224
+  - first:
+      213: 7184272758082355551
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_225
+  - first:
+      213: 3864890012650781305
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_226
+  - first:
+      213: 7853733058944847811
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_227
+  - first:
+      213: -2649462345548659202
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_228
+  - first:
+      213: 8646556400410819730
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_229
+  - first:
+      213: -1861948121416123263
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_230
+  - first:
+      213: 3092198304150992618
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_231
+  - first:
+      213: -2900864448520813681
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_232
+  - first:
+      213: -8234154398366888549
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_233
+  - first:
+      213: 3176115190365565381
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_234
+  - first:
+      213: 3988162358316084518
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_235
+  - first:
+      213: -574177231906152586
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_236
+  - first:
+      213: -2171411222935405346
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_237
+  - first:
+      213: 5075414697865983688
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_238
+  - first:
+      213: -2752098614955025781
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_239
+  - first:
+      213: 2916239006231523674
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_240
+  - first:
+      213: -2186269029359927065
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_241
+  - first:
+      213: 4061956038360650348
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_242
+  - first:
+      213: 8299132358160080512
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_243
+  - first:
+      213: 2115629006483645960
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_244
+  - first:
+      213: -6047893981887366157
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_245
+  - first:
+      213: 6487470338845099696
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_246
+  - first:
+      213: -4369941256667802070
+    second: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2011
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306224d4f94411100800000000000000
+      internalID: 76918119628678659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2011
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b666184dfa3388890800000000000000
+      internalID: -7455652352834312597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2011
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e54084746b6fb360800000000000000
+      internalID: 7187581609502066152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2011
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf4e25520efc640800000000000000
+      internalID: 5102543353743211395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2017
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52fef1553cb38f80800000000000000
+      internalID: -8105427967141809573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2018
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7d6f08f7e9f8970800000000000000
+      internalID: 8759394070720600052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2017
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6574598a27c76170800000000000000
+      internalID: 8171719034393621870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2013
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b485cc7508f249180800000000000000
+      internalID: -9109603917988341685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2011
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e1da2e5f567d9c0800000000000000
+      internalID: -3902538445348856213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2011
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fead2c7951268530800000000000000
+      internalID: 3856806799108583157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1931
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974eddc8ab395bc0800000000000000
+      internalID: -3793935614888491117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1931
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869a4376ee87782a0800000000000000
+      internalID: -6735281752380233368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1931
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d80ee891acb820800000000000000
+      internalID: 2935398735339377828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1931
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418b78136ef638cb0800000000000000
+      internalID: -4862920138165864428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1931
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6078d8ffb8a02b0800000000000000
+      internalID: -5617523655483914578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1931
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cee42b1efd6d100800000000000000
+      internalID: 132539399506160641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1931
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd565a41eeb5e2d10800000000000000
+      internalID: 2102719154135328223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1931
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1707acc090c07b80800000000000000
+      internalID: -8399001576904653028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1931
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3849b0f5664a220800000000000000
+      internalID: 2496232651872306148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1931
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b88e962b4a6abd0800000000000000
+      internalID: -2619225047081383093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1851
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1680ca9afc095d0800000000000000
+      internalID: -3057715819341913606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1851
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8851373a4348910800000000000000
+      internalID: 1838652424489109744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1851
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c702cac3457ff90800000000000000
+      internalID: -6919969682868896751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1851
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7309aa10656c290800000000000000
+      internalID: -7870508733626828874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1851
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34be7e0215e06ac70800000000000000
+      internalID: 8981882248444242755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1851
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec397401784ba40800000000000000
+      internalID: 5383075958604680857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1851
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf564927672424b0800000000000000
+      internalID: -5466200723693346882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_27
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1851
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bd79fd568b12020800000000000000
+      internalID: 2315334431127624490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_28
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1851
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41124a211adad6580800000000000000
+      internalID: -8832212386889588460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_29
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1851
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b436a224603370800000000000000
+      internalID: 8300244213223962204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1771
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973f94f3c96f24ed0800000000000000
+      internalID: -2431109697889504391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1771
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a18725b6cc0a1550800000000000000
+      internalID: 6132227890200674725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1771
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8550125c3946624f0800000000000000
+      internalID: -853884493509884584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1771
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2d13cde53e306f0800000000000000
+      internalID: -719481518888463705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1771
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f6f675724f2220800000000000000
+      internalID: 2463260593469454555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_35
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1771
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c03705037bd82810800000000000000
+      internalID: 1740882543030776000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_36
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1771
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3547ffb3ba1460800000000000000
+      internalID: 7213275390255906180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_37
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1771
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbed88b0da1d1260800000000000000
+      internalID: 7069836473793375225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_38
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1771
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6001d88bf17660520800000000000000
+      internalID: 2667933215201497094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1771
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50606f90f60daf40800000000000000
+      internalID: 5741252730503061596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1691
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce054b1d8b3e2cf0800000000000000
+      internalID: -275217049989083447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1691
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370cd7dc327cab360800000000000000
+      internalID: 7186275112008401011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1691
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389ca61767e250350800000000000000
+      internalID: 5982238766275414403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1691
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e609d54389f8130800000000000000
+      internalID: 3571240380203560588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1691
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6280d90e1ceb5030800000000000000
+      internalID: 3484638350459044463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1691
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc4c894bb47d8de0800000000000000
+      internalID: -1329277967262790471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_46
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1691
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346e596247843b10800000000000000
+      internalID: 1960340457118393400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_47
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1691
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aa2b814c4cb3350800000000000000
+      internalID: 5997603675280943621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_48
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1691
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099cf3e6ebdf09120800000000000000
+      internalID: 2418711994233244048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1691
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54658ab8456d7b60800000000000000
+      internalID: 7745458297188475998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1611
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87974585d00bc39b0800000000000000
+      internalID: -5099007106727249544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1611
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad832c7c2844fc30800000000000000
+      internalID: 4392214892491541935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1611
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56930d58af43fe190800000000000000
+      internalID: -7931062168184669851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1611
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bfe1978de6340a0800000000000000
+      internalID: -6898548328177403083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1611
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dbf4b02f7a21bf0800000000000000
+      internalID: -355036762595148500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1611
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e283c30c4d43972d0800000000000000
+      internalID: -3280532765199812562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_56
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1611
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5ae398d0642a40800000000000000
+      internalID: 5342501541279062807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_57
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1611
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1883c0df69b11e0800000000000000
+      internalID: -2226019577228656159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_58
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1611
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f61479e4164fe0800000000000000
+      internalID: -1205252857367432842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1611
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf9b947d2ed8b60800000000000000
+      internalID: 7750099948057263082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1531
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bd4f35f8a25f460800000000000000
+      internalID: 7274767568164150057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0e20355d74e5760800000000000000
+      internalID: 7448469815263682767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547168b0c46a7d00800000000000000
+      internalID: 971199448541656155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510360942fb5a2940800000000000000
+      internalID: 5272127409955942421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_64
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522909f530c4a8070800000000000000
+      internalID: 8109377656405922341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_65
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a3d8e018031a390800000000000000
+      internalID: -7808906948030678511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_66
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a3bf825c025db0800000000000000
+      internalID: -4804764303713131286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63a0b41a834e040800000000000000
+      internalID: 4675924578517268176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_68
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c7ab537e8d1b220800000000000000
+      internalID: 2500017755717794912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_69
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1531
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b9446b1c9a8bbf0800000000000000
+      internalID: -308309925023147211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21faa7d10466494c0800000000000000
+      internalID: -4281684920163979502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4e02d45c517f70800000000000000
+      internalID: 9183222634556313297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_72
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351b75ebadf8e6fe0800000000000000
+      internalID: -1193858681547542189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_73
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ad32a52ed08eb0800000000000000
+      internalID: -4719528156267175147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1451
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9802bff20da8200800000000000000
+      internalID: 183187639357180398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_75
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1451
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e2d2e8b7d6baf80800000000000000
+      internalID: -8094255527834604010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0989eac7b8e33a700800000000000000
+      internalID: 550352348282525840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1451
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7369c065bb7c6fd60800000000000000
+      internalID: 7923740201821443639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_78
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1451
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39027b49c983d7f0800000000000000
+      internalID: -588975628608206531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_79
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1451
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71864ea01730b7e0800000000000000
+      internalID: -1751839710264262273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1371
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4d8eff418f4a00800000000000000
+      internalID: 742954644112494568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1371
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f1bfdf46a6f9170800000000000000
+      internalID: 8187379629573218155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1371
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305698e747318930800000000000000
+      internalID: 4143653914141937714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1371
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd0e5edf2a88e370800000000000000
+      internalID: 8352077447157386707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1371
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63113225a0bf63bf0800000000000000
+      internalID: -344812299700989642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_85
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1371
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b39baaa486e5bc70800000000000000
+      internalID: 8986342088961135541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_86
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1371
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170697030bfb5bc70800000000000000
+      internalID: 8986299394936103025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_87
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1371
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0fe7fc8a3f4fe10800000000000000
+      internalID: 2230675621816496348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_88
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1371
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c1c5dde8d1b150800000000000000
+      internalID: 5886724703955044019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_89
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1371
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757591600e9017f0800000000000000
+      internalID: -643841022239607430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac53fbbd3753e380800000000000000
+      internalID: -8943208512369763165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e56af7acd9c4a200800000000000000
+      internalID: 190499033804596713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be5939060f3652f0800000000000000
+      internalID: -984530173376766286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b03c83aed0ade40800000000000000
+      internalID: 5681869179507116945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a891891fa81a191c0800000000000000
+      internalID: -4498636934635578998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_95
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c171b78c30381080800000000000000
+      internalID: -9216563600880995898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_96
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af835c49e1eafe700800000000000000
+      internalID: 571867124067547386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_97
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1291
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37525183f61953f0800000000000000
+      internalID: -911672214463293636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_98
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1291
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fb3834b744740a0800000000000000
+      internalID: -6897469008090251507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_99
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1291
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374bef907eaac880800000000000000
+      internalID: -8589861540513233102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1211
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef6a77f680dca8b0800000000000000
+      internalID: -5139503796640387102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1211
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc56e6d9053bb10800000000000000
+      internalID: 1996027696947515185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_102
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1211
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c28ec524cb83bb40800000000000000
+      internalID: 5454857248239944388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_103
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1211
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385eb7db9c2f4b530800000000000000
+      internalID: 3869984928099460483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1212
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79dab8881d21f90800000000000000
+      internalID: -6984289687709050973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1214
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed661fb632eaaf490800000000000000
+      internalID: -7711659944760482082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1214
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a59d8ab0db0b8e0800000000000000
+      internalID: -1679634803234088424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_107
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1213
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a45b72ff2b95680800000000000000
+      internalID: -8765778390747362694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_108
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1214
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce808ff7bb73a00800000000000000
+      internalID: 736263222394940555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_109
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1214
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3885b593c9468a0800000000000000
+      internalID: -6312749007506996286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1134
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603f5fe6b96a8aa0800000000000000
+      internalID: -6157993306054774677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1134
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92c58ba1767875f0800000000000000
+      internalID: -758726306630876515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1134
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7edb8feab77ad70800000000000000
+      internalID: 9054341567279392736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1134
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e664619bca6e30800000000000000
+      internalID: 4497631003198023534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1134
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf2932b2acdd110800000000000000
+      internalID: 1287407355127070199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_115
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1134
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccb5ff55ffc65c80800000000000000
+      internalID: -8334245407618646835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1134
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e0093cbccce2d0800000000000000
+      internalID: -3247996122458692083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_117
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1134
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85200bea3540ec7b0800000000000000
+      internalID: -5202215762106777000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1134
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ff0a4774a23800800000000000000
+      internalID: 590715333389580209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_119
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1134
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0515d12194b880b0800000000000000
+      internalID: -5726128390770715380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1054
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2985cc92c36606940800000000000000
+      internalID: 5287338371118291090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1054
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab3ea75998467c0800000000000000
+      internalID: -4078984087385949646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1054
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb57d518cce8d0310800000000000000
+      internalID: 1372910470412727742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1054
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a1b69dcb3ad0f50800000000000000
+      internalID: 6849310639797246616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_124
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1054
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8d3b173ea345e0800000000000000
+      internalID: -1926504663880987132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_125
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1054
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f8fd5b9a9aad860800000000000000
+      internalID: 7555537871233322879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1054
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b5542600f9b9bd0800000000000000
+      internalID: -2622327534015653054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_127
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1054
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242cabfb0c2b00670800000000000000
+      internalID: 8502992637395649090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_128
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1054
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f790e96cb541c9d20800000000000000
+      internalID: 3286524212480444799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_129
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1054
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cf7de38cc52caa0800000000000000
+      internalID: -6142244926662378403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 974
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59228bfbaad545390800000000000000
+      internalID: -7830530864148110699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_131
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 974
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8444abbb1369f1c0800000000000000
+      internalID: -4469432184425134962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_132
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 974
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d871536539ea86b0800000000000000
+      internalID: -5293161996511774505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 974
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d4c18294fbe890800000000000000
+      internalID: -7427574250337938490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_134
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 974
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a4bd3000a140a70800000000000000
+      internalID: 8792180959901076127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_135
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 970
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d4349bd540aaaf0800000000000000
+      internalID: -384490017600090859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_136
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 970
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc31e5043d0f9e390800000000000000
+      internalID: -7788429290451889204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_137
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 970
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc69152fcb8e4c0800000000000000
+      internalID: -4257945698741858481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_138
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 970
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f56c7e70ec7ab90800000000000000
+      internalID: -7230584143371411682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_139
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 970
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531f03aa5548870c0800000000000000
+      internalID: -4577763517759688395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_140
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 890
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a27e2075a57f10800000000000000
+      internalID: 2266899888685097201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_141
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 891
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec47ca17c6cc66080800000000000000
+      internalID: -9194436823094627122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_142
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 891
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e2a7dbfd730e20800000000000000
+      internalID: 3315632271282857124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 890
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7ed3486a67e6160800000000000000
+      internalID: 7020679326672480174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_144
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 890
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8066b97bca3f20da0800000000000000
+      internalID: -5979949432054258168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_145
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 891
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b41095a18cefbc0800000000000000
+      internalID: -3747337824437712082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_146
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 891
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194d8893ca41e1c0800000000000000
+      internalID: -4476214350691088097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_147
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 891
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc86c0d12e1423a80800000000000000
+      internalID: -8488649908234196789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_148
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 890
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6962e2fc7237c1a0800000000000000
+      internalID: -6789402401005475474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_149
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 890
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8132291dd1109d0800000000000000
+      internalID: -2809931906565334873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_150
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 812
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d18ceede31226b0800000000000000
+      internalID: -5322669896964235891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_151
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 814
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304c4299ff18dc80800000000000000
+      internalID: -8297847156668350402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_152
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 811
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76325f857116c4e50800000000000000
+      internalID: 6794912690699838311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 812
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9672aca7003c1010800000000000000
+      internalID: 1160855613473978015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_154
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 813
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2c42eccfc27f1b0800000000000000
+      internalID: -5622976145446878556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_155
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 813
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b3761904466e00800000000000000
+      internalID: 1037591569977555310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_156
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 811
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9960398d583840800000000000000
+      internalID: 5204012213230738013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_157
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 811
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440ae8f095d67f10800000000000000
+      internalID: 2267234281055716416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_158
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 811
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4debcf9d7e176770800000000000000
+      internalID: 8603879138015309131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_159
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 811
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4cd42ea9f534750800000000000000
+      internalID: 6287974623565694168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 731
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8a5541215e94f90800000000000000
+      internalID: -6968787082565801810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_161
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 731
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472f43fc6ed47bb0800000000000000
+      internalID: -4939078331798706363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_162
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 731
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6318a33f62b2c0800000000000000
+      internalID: -4417346016843174173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_163
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 731
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e2e04c368b47070800000000000000
+      internalID: 8103304368176901736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_164
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 731
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87732455d7c2340800000000000000
+      internalID: 4840381504653064362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_165
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 731
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a831dd57ab43a70800000000000000
+      internalID: 8805868186799147645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_166
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 731
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7703b545a119ec30800000000000000
+      internalID: 4389058713385895804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_167
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 731
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63c64a7ea6f0c80800000000000000
+      internalID: -8354341240620435760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_168
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 731
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180b4ce7ec19767b0800000000000000
+      internalID: -5231052126091431807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_169
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 731
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ba0f6374ed4ae0800000000000000
+      internalID: -1563342311192348166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_170
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 651
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b32f3015cde8f50800000000000000
+      internalID: 6885683120812735264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_171
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 698
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06207bc853377b400800000000000000
+      internalID: 339866970721026656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_172
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 699
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e883e52da7c210800000000000000
+      internalID: 1353240591290917274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_173
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 698
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199a0c2db3b94e0d0800000000000000
+      internalID: -3394417537889293935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_174
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 699
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d32a9877958c3660800000000000000
+      internalID: 7366909976081212369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_175
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 698
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fa2de14cd4383e0800000000000000
+      internalID: -2052711500424761507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_176
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 699
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df626249d8d9ba60800000000000000
+      internalID: 7690416266345082838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_177
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 698
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4ea14199ea4bd20800000000000000
+      internalID: 3293449200005211331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_178
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 699
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ca9fe9bad6fe990800000000000000
+      internalID: -7354539082598732682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_179
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 698
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc297423b6c930d0800000000000000
+      internalID: -3442501967434666789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_180
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 699
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8f84be103c7d100800000000000000
+      internalID: 132789127040530658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_181
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 651
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05263774dae7b61f0800000000000000
+      internalID: -1050606805367692720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_182
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 647
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f93a3306507b0c40800000000000000
+      internalID: 5479596886349986291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_183
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 647
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f7c5d6c79b8ed0800000000000000
+      internalID: -2410666295280797489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_184
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 648
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849d5bbec29332960800000000000000
+      internalID: 7575961863263213896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_185
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 569
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8628af679d759ff30800000000000000
+      internalID: 4609812285106061928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_186
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 569
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6be9c0f7cfae310800000000000000
+      internalID: 1435237053873698538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_187
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 571
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf73156f78319680800000000000000
+      internalID: -8750150481196384308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_188
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 571
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c7b4c043af20b60800000000000000
+      internalID: 7711000613463227448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_189
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 571
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787590dc61c51e470800000000000000
+      internalID: 8422114031158515591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_190
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 571
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cce022067e1c3b10800000000000000
+      internalID: 1962477029817380033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_191
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 571
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f713e8919ad2830800000000000000
+      internalID: 4048077567300828970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 571
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a431d9d2afe5caf0800000000000000
+      internalID: -376631511097461599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_193
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 571
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefc32104217a530800000000000000
+      internalID: 3866078871514054307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_194
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 571
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3112f0b32edb2250800000000000000
+      internalID: 5921070379982524730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_195
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 497
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529facf867362a40800000000000000
+      internalID: 5343018931977163356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_196
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 498
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b16f5f5278c2e30800000000000000
+      internalID: 4480104326436887391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_197
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 499
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9cc8b5b5eac350800000000000000
+      internalID: 6037890819095829825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_198
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 499
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05cb55282eb16320800000000000000
+      internalID: 2549527943703151886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_199
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 498
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710da2ac37dfbb040800000000000000
+      internalID: 4664600512827150359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_200
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 497
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02007f92eb150cf0800000000000000
+      internalID: -286792341116681714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_201
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 492
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e419ae1ffd91c8f0800000000000000
+      internalID: -521962362741648154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_202
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 491
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68eafdbb415ee180800000000000000
+      internalID: -9084234012607977366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_203
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 491
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32f1210e13a6a30800000000000000
+      internalID: 4209231640177615790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_204
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 491
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f41d77f4d738300800000000000000
+      internalID: 253183784328974236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_205
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94557c4d8aa88ea0800000000000000
+      internalID: -5870254590427573089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_206
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 411
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033936d44ad2ccd60800000000000000
+      internalID: 7911748829079376688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_207
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 414
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adce8e1090b93590800000000000000
+      internalID: -7693924355351327323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_208
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 415
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0633279fe7d808880800000000000000
+      internalID: -8610726911041981600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_209
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 411
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d963d3b4c2541d40800000000000000
+      internalID: 5554155245238708691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_210
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 411
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d147541062f5410800000000000000
+      internalID: 1467933790448131465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_211
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 411
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7a315a8f2a6980800000000000000
+      internalID: -8544965071867315438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_212
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 411
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63928ffdc05968950800000000000000
+      internalID: 6451007398784543030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_213
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 411
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8732e0f0b9c53960800000000000000
+      internalID: 7581187309540882317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_214
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 411
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d956f3a4fe4fdc0800000000000000
+      internalID: -3605994299446682256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_215
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 331
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abfb6113b13c4a0800000000000000
+      internalID: -6574381133381780946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_216
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b6827b52c46150800000000000000
+      internalID: 5865026312762471125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_217
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 331
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d3133d8ae42c150800000000000000
+      internalID: 5891357749558721905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_218
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 331
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b1a68e9ee3ed840800000000000000
+      internalID: 5250703389908147009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_219
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 331
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc976bdb340eac8e0800000000000000
+      internalID: -1672277730064434737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_220
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 331
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119f5140a32338c60800000000000000
+      internalID: 7819148602803353873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_221
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 331
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f597a04e05e7c5b0800000000000000
+      internalID: -5348054183102147081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_222
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 331
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb290e97a008df40800000000000000
+      internalID: 5753349243876748250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_223
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 331
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57316de3c57dd0f90800000000000000
+      internalID: -6985690655790591115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_224
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 331
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033039c1d730f88c0800000000000000
+      internalID: -3994970508569148624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_225
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 251
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c303720aa3b360800000000000000
+      internalID: 7184272758082355551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_226
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 251
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a310c4df8d2a530800000000000000
+      internalID: 3864890012650781305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_227
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 251
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf46233b901efc60800000000000000
+      internalID: 7853733058944847811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_228
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 251
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58ccfb8083b3bd0800000000000000
+      internalID: -2649462345548659202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_229
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 251
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cfdd81c3dbef770800000000000000
+      internalID: 8646556400410819730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_230
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 251
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c39c07c080926e0800000000000000
+      internalID: -1861948121416123263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_231
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 251
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae63cf579f1b9ea20800000000000000
+      internalID: 3092198304150992618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_232
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 251
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f838b5c472f0eb7d0800000000000000
+      internalID: -2900864448520813681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_233
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 251
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d0f9b73386abd80800000000000000
+      internalID: -8234154398366888549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_234
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 251
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1367710f3d31c20800000000000000
+      internalID: 3176115190365565381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_235
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 91
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da302e88cc85730800000000000000
+      internalID: 3988162358316084518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_236
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 91
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fdd1689dc1808f0800000000000000
+      internalID: -574177231906152586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_237
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 91
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc73a35ff89dd1e0800000000000000
+      internalID: -2171411222935405346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_238
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6391ae6ce7f6640800000000000000
+      internalID: 5075414697865983688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_239
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ad2c414e49ec9d0800000000000000
+      internalID: -2752098614955025781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_240
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51719edcef887820800000000000000
+      internalID: 2916239006231523674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_241
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 11
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e04091b6efc8a1e0800000000000000
+      internalID: -2186269029359927065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_242
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 11
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625db7ee77fe5830800000000000000
+      internalID: 4061956038360650348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_243
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed418b8e07c2370800000000000000
+      internalID: 8299132358160080512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_244
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 11
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80668ff4f593c5d10800000000000000
+      internalID: 2115629006483645960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_245
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 11
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb71627770911ca0800000000000000
+      internalID: -6047893981887366157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_246
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 11
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6cebda6ef180a50800000000000000
+      internalID: 6487470338845099696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_247
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 11
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26ddfa7499da53c0800000000000000
+      internalID: -4369941256667802070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_0: 76918119628678659
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_1: -7455652352834312597
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_10: -3793935614888491117
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_100: -5139503796640387102
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_101: 1996027696947515185
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_102: 5454857248239944388
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_103: 3869984928099460483
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_104: -6984289687709050973
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_105: -7711659944760482082
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_106: -1679634803234088424
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_107: -8765778390747362694
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_108: 736263222394940555
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_109: -6312749007506996286
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_11: -6735281752380233368
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_110: -6157993306054774677
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_111: -758726306630876515
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_112: 9054341567279392736
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_113: 4497631003198023534
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_114: 1287407355127070199
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_115: -8334245407618646835
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_116: -3247996122458692083
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_117: -5202215762106777000
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_118: 590715333389580209
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_119: -5726128390770715380
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_12: 2935398735339377828
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_120: 5287338371118291090
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_121: -4078984087385949646
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_122: 1372910470412727742
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_123: 6849310639797246616
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_124: -1926504663880987132
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_125: 7555537871233322879
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_126: -2622327534015653054
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_127: 8502992637395649090
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_128: 3286524212480444799
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_129: -6142244926662378403
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_13: -4862920138165864428
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_130: -7830530864148110699
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_131: -4469432184425134962
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_132: -5293161996511774505
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_133: -7427574250337938490
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_134: 8792180959901076127
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_135: -384490017600090859
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_136: -7788429290451889204
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_137: -4257945698741858481
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_138: -7230584143371411682
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_139: -4577763517759688395
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_14: -5617523655483914578
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_140: 2266899888685097201
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_141: -9194436823094627122
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_142: 3315632271282857124
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_143: 7020679326672480174
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_144: -5979949432054258168
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_145: -3747337824437712082
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_146: -4476214350691088097
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_147: -8488649908234196789
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_148: -6789402401005475474
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_149: -2809931906565334873
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_15: 132539399506160641
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_150: -5322669896964235891
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_151: -8297847156668350402
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_152: 6794912690699838311
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_153: 1160855613473978015
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_154: -5622976145446878556
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_155: 1037591569977555310
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_156: 5204012213230738013
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_157: 2267234281055716416
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_158: 8603879138015309131
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_159: 6287974623565694168
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_16: 2102719154135328223
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_160: -6968787082565801810
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_161: -4939078331798706363
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_162: -4417346016843174173
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_163: 8103304368176901736
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_164: 4840381504653064362
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_165: 8805868186799147645
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_166: 4389058713385895804
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_167: -8354341240620435760
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_168: -5231052126091431807
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_169: -1563342311192348166
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_17: -8399001576904653028
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_170: 6885683120812735264
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_171: 339866970721026656
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_172: 1353240591290917274
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_173: -3394417537889293935
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_174: 7366909976081212369
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_175: -2052711500424761507
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_176: 7690416266345082838
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_177: 3293449200005211331
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_178: -7354539082598732682
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_179: -3442501967434666789
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_18: 2496232651872306148
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_180: 132789127040530658
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_181: -1050606805367692720
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_182: 5479596886349986291
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_183: -2410666295280797489
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_184: 7575961863263213896
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_185: 4609812285106061928
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_186: 1435237053873698538
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_187: -8750150481196384308
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_188: 7711000613463227448
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_189: 8422114031158515591
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_19: -2619225047081383093
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_190: 1962477029817380033
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_191: 4048077567300828970
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_192: -376631511097461599
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_193: 3866078871514054307
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_194: 5921070379982524730
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_195: 5343018931977163356
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_196: 4480104326436887391
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_197: 6037890819095829825
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_198: 2549527943703151886
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_199: 4664600512827150359
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_2: 7187581609502066152
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_20: -3057715819341913606
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_200: -286792341116681714
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_201: -521962362741648154
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_202: -9084234012607977366
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_203: 4209231640177615790
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_204: 253183784328974236
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_205: -5870254590427573089
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_206: 7911748829079376688
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_207: -7693924355351327323
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_208: -8610726911041981600
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_209: 5554155245238708691
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_21: 1838652424489109744
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_210: 1467933790448131465
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_211: -8544965071867315438
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_212: 6451007398784543030
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_213: 7581187309540882317
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_214: -3605994299446682256
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_215: -6574381133381780946
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_216: 5865026312762471125
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_217: 5891357749558721905
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_218: 5250703389908147009
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_219: -1672277730064434737
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_22: -6919969682868896751
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_220: 7819148602803353873
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_221: -5348054183102147081
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_222: 5753349243876748250
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_223: -6985690655790591115
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_224: -3994970508569148624
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_225: 7184272758082355551
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_226: 3864890012650781305
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_227: 7853733058944847811
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_228: -2649462345548659202
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_229: 8646556400410819730
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_23: -7870508733626828874
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_230: -1861948121416123263
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_231: 3092198304150992618
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_232: -2900864448520813681
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_233: -8234154398366888549
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_234: 3176115190365565381
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_235: 3988162358316084518
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_236: -574177231906152586
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_237: -2171411222935405346
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_238: 5075414697865983688
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_239: -2752098614955025781
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_24: 8981882248444242755
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_240: 2916239006231523674
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_241: -2186269029359927065
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_242: 4061956038360650348
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_243: 8299132358160080512
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_244: 2115629006483645960
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_245: -6047893981887366157
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_246: 6487470338845099696
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_247: -4369941256667802070
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_25: 5383075958604680857
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_26: -5466200723693346882
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_27: 2315334431127624490
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_28: -8832212386889588460
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_29: 8300244213223962204
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_3: 5102543353743211395
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_30: -2431109697889504391
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_31: 6132227890200674725
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_32: -853884493509884584
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_33: -719481518888463705
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_34: 2463260593469454555
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_35: 1740882543030776000
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_36: 7213275390255906180
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_37: 7069836473793375225
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_38: 2667933215201497094
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_39: 5741252730503061596
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_4: -8105427967141809573
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_40: -275217049989083447
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_41: 7186275112008401011
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_42: 5982238766275414403
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_43: 3571240380203560588
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_44: 3484638350459044463
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_45: -1329277967262790471
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_46: 1960340457118393400
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_47: 5997603675280943621
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_48: 2418711994233244048
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_49: 7745458297188475998
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_5: 8759394070720600052
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_50: -5099007106727249544
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_51: 4392214892491541935
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_52: -7931062168184669851
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_53: -6898548328177403083
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_54: -355036762595148500
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_55: -3280532765199812562
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_56: 5342501541279062807
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_57: -2226019577228656159
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_58: -1205252857367432842
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_59: 7750099948057263082
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_6: 8171719034393621870
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_60: 7274767568164150057
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_61: 7448469815263682767
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_62: 971199448541656155
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_63: 5272127409955942421
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_64: 8109377656405922341
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_65: -7808906948030678511
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_66: -4804764303713131286
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_67: 4675924578517268176
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_68: 2500017755717794912
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_69: -308309925023147211
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_7: -9109603917988341685
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_70: -4281684920163979502
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_71: 9183222634556313297
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_72: -1193858681547542189
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_73: -4719528156267175147
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_74: 183187639357180398
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_75: -8094255527834604010
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_76: 550352348282525840
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_77: 7923740201821443639
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_78: -588975628608206531
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_79: -1751839710264262273
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_8: -3902538445348856213
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_80: 742954644112494568
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_81: 8187379629573218155
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_82: 4143653914141937714
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_83: 8352077447157386707
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_84: -344812299700989642
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_85: 8986342088961135541
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_86: 8986299394936103025
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_87: 2230675621816496348
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_88: 5886724703955044019
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_89: -643841022239607430
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_9: 3856806799108583157
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_90: -8943208512369763165
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_91: 190499033804596713
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_92: -984530173376766286
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_93: 5681869179507116945
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_94: -4498636934635578998
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_95: -9216563600880995898
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_96: 571867124067547386
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_97: -911672214463293636
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_98: -6897469008090251507
+      PC _ Computer - Poke ALL Toads - Fairies - Merry Fairy_99: -8589861540513233102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
